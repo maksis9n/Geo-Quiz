@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Да или нет?</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toast">Не правильно</string>
+
+    <string name="next_button">Следующий</string>
+    <string name="prev_button">Предыдущий</string>
+
+    <string name="question_oceans">Средиземное море омывает Южную Америку</string>
+    <string name="question_sahara">Самая большая пустыня находится в Южной Америке</string>
+    <string name="question_waterfall">Водопад Игуасу находится на Бразильском плоскогории</string>
+    <string name="question_piranha">Пираньи обитают в одиночку</string>
+
+    <string name="cheat_button">Чит!</string>
+    <string name="judgment_toast">Читерить неправильно</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="warning_text">Вы уверены что хотите это сделать?</string>
+    <string name="title_activity_cheat">Чит</string>
+
+</resources>
